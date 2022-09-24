@@ -23,7 +23,6 @@ In this scenario, data is extracted from PostgreSQL. Using ingest data feature f
 
 <img src="https://user-images.githubusercontent.com/6762596/192118088-8f48ac78-69f3-4626-a924-bb6288039760.png" width="300" height="500">
 
-![image]()
 
 ## Transform Step
 
